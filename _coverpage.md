@@ -2,7 +2,7 @@
 
 **<center><font color=white size=72><a href="#/about">〔 华夏红客联盟 〕</a></font></center>**
 
-> Copyright © 2026
+> Copyright © 2026 **SecureNodeTeam 运维**
 
 
 [资讯](http://archive.cnhonker.top/)
