@@ -1,6 +1,5 @@
-- [📚️ 资讯](http://archive.cnhonker.top/)
-- [🔥 社区](#)
-- [🕵️ 关于](about)
+- [🔥 资讯](http://archive.cnhonker.top/)
+- [📚️ 关于](about)
 
 - **相关链接**
 
