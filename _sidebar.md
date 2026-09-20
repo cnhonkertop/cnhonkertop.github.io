@@ -1,5 +1,6 @@
 - [🔥 资讯](http://archive.cnhonker.top/)
-- [📚️ 关于](about)
+- [💬 聊天](https://kook.vip/zcQLi3)
+- [🕵️ 关于](about)
 
 - **相关链接**
 
